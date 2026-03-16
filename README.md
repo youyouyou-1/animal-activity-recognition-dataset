@@ -1,6 +1,6 @@
 # animal-activity-recognition-dataset
 A collection of public li[List of public datasets.md](https://github.com/user-attachments/files/26025877/List.of.public.datasets.md)
-vestock activity recogni
+vestock activity recognition datasets used for self-supervised pretraining.
 ## List of Public Animal Behavior Datasets
 
 | ID   | Reference                                                    | Animal Species | Sensor Type              | Sampling Rate (Hz) | Dataset Link                                                 |
